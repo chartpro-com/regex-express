@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Title regex-rexpress
 
 Introductory paragraph (replace this with your text)
 
@@ -23,18 +23,21 @@ Briefly summarize the regex you will be describing and what you will explain. In
 ## Regex Components
 
 ### Anchors
-
+    ^ -- $
 ### Quantifiers
+    ([a-z0-9_\.-]+)
 
 ### OR Operator
 
 ### Character Classes
+    a-z0-9_\.-
 
 ### Flags
 
 ### Grouping and Capturing
 
 ### Bracket Expressions
+    ^([-----]--)
 
 ### Greedy and Lazy Match
 
